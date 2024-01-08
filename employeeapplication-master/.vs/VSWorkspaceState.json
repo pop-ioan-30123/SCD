@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\employeeapplication-master",
+    "\\employeeapplication-master\\employeeapplication",
+    "\\employeeapplication-master\\employeeapplication\\src",
+    "\\employeeapplication-master\\employeeapplication\\src\\main",
+    "\\employeeapplication-master\\employeeapplication\\src\\main\\resources",
+    "\\employeeapplication-master\\employeeapplication\\src\\test",
+    "\\employeeapplication-master\\employeeapplication\\src\\test\\java",
+    "\\employeeapplication-master\\employeeapplication\\src\\test\\java\\com",
+    "\\employeeapplication-master\\employeeapplication\\src\\test\\java\\com\\utcn",
+    "\\employeeapplication-master\\employeeapplication\\src\\test\\java\\com\\utcn\\employeeapplication"
+  ],
+  "SelectedNode": "\\employeeapplication-master\\employeeapplication\\src\\main\\java\\com\\utcn\\employeeapplication\\employee\\EmployeeController.java",
+  "PreviewInSolutionExplorer": false
+}
